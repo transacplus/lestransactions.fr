@@ -1,9 +1,12 @@
 Todo
 
-(0) Cleanup code
-(1) Allow visitors to flag transactions that look suspicious / interesting
-(2) Allow users to choose to receive alerts only why a LONG (buy, etc) or SHORT (sell, etc) transaction has happened.
-(3) Clean-up DB
-(4) Swithc currency column to ISO 4217
-(5) Add yahoo/google/morningstar tickers when possible
+(0) Cleanup code ==> to continue
+(1) Switch currency column to ISO 4217 => done for EUR and USD
+(2) Add yahoo/google/morningstar tickers when possible => Done
+
+(3) create insert for MariaDb
+
+(4) Allow visitors to flag transactions that look suspicious / interesting
+(5) Allow users to choose to receive alerts only why a LONG (buy, etc) or SHORT (sell, etc) transaction has happened.
 (6) Add crawlers for other countries
+(7) Change all Front-End
