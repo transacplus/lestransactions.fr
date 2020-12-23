@@ -2,6 +2,7 @@
 Depuis 2019 le moteur AMF_crawler.py ne fonctionne plus suite au changement des url de l'AMF et d'euronext
 Cette version est une modification de AMF_crawler version windows
 Pré requis : pdftohtml.exe
+
 *** Correction : ***
 - Cette version utilise les nouvelles url amf
 - utilisation de yahoo finance pour parser et récupérer ticker, capitalisation
