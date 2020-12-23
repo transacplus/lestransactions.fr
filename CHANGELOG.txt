@@ -2,14 +2,14 @@
 Depuis 2019 le moteur AMF_crawler.py ne fonctionne plus suite au changement des url de l'AMF et d'euronext
 Cette version est une modification de AMF_crawler version windows
 Pré requis : pdftohtml.exe
-*** Correction :
+*** Correction : ***
 - Cette version utilise les nouvelles url amf
 - utilisation de yahoo finance pour parser et récupérer ticker, capitalisation
 - correctifs sur balises fermantes
 - écriture de methodes statiques pour améliorer la lisibilité et evolution du code de la classe AMFdata
 - Euros remplacé par EUR et Dollars par USD (norme iso ...) 
 
-*** Evolution :
+*** Evolution : ***
 
 - gestion de la fourchette de récupération des date debut et fin
  > python AMF_crawler.py                      => date du jour
